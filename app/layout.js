@@ -3,7 +3,7 @@ import ClientBody from "./ClientBody";
 import Script from "next/script";
 
 export const metadata = {
-  title: "Home - Cobblestone Creek Country Club - Victor, NY",
+  title: "Home - LL Resort",
   description: "Our premier family-friendly private club in Victor offers an exceptional Scottish links-style 18-hole golf course, state-of-the-art golf simulators, a comprehensive fitness center, brand-new pickleball facilities, and a seasonal pool.",
 };
 
